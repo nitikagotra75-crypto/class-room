@@ -10,5 +10,9 @@ Attractive color scheme.
 HTML
 CSS
 
+## ✉️Contact me
+Email :nitikagotra75@gmail.com 
+linkdin : https://www.linkedin.com/in/nitika-gotra-42007b365?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 ## Author
 Nitika
