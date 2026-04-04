@@ -10,5 +10,5 @@ Attractive color scheme.
 HTML
 CSS
 
-##Author
+## Author
 Nitika
